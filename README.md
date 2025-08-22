@@ -1,8 +1,6 @@
 About Me
 
-  🌍 Based in Morocco
-
-  🎓 Student at 1337 (42 Network), learning and building projects around systems programming, web development
+  🎓 Imad Delfag, Student at 1337 (42 Network), learning and building projects around systems programming, web development
 
   🚀 Passionate about web technologies
 
